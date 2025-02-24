@@ -13,8 +13,6 @@ The dataset includes various **features that influence housing prices**, such as
 - **Proximity to employment centers (DIS)**
 - And more...
 
-**Dataset Source:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.names)
-
 
 ## **🔍 Use Cases**
 ### **1️⃣ Real Estate Pricing & Valuation**
@@ -57,7 +55,7 @@ The project follows these **machine learning pipeline steps**:
 ## **🚀 Installation & Running the Project**
 ### **1️⃣ Clone the Repository**
 
-git clone https://github.com/your-repo/boston-housing-price-prediction.git
+git clone https://github.com/vinuta-patil/boston-housing-price-prediction.git
 cd boston-housing-price-prediction
 
 ### **2️⃣ Set Up Virtual Environment (Recommended)**
